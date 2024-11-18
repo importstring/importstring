@@ -20,7 +20,8 @@ Welcome to my GitHub! I'm Simon, a mathematician-turned-computer-science enthusi
 ---
 
 ## 🚀 What I Can Do  
-- **Efficient Code**: Python wizardry for AI, data analysis, and automation.  
+- **Efficient Code**: Python: AI, data analysis, and automation.
+- Web development
 - **Weather Prediction Models**: Developing AI-based tools for analyzing climate trends.  
 - **Creative Problem-Solving**: Whether it’s debugging code or designing experiments, I thrive on finding solutions.  
 
