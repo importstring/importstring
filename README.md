@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm Simon, a mathematician-turned-computer-science enthusi
    - Applying machine learning to everyday problems.  
    - How I use Notion for seamless task management and thematic design.  
 - 🎯 **My goal**: To master AI and mathematics, making meaningful contributions to the field while staying grounded in logic and science.  
-- 😄 **Fun fact**: I’m a firm believer that science is the lens through which the world makes sense—and I enjoy sprinkling snarky humor into my writing.  
+- 😄 **Fun fact**: I’m a firm believer that science is the lens through which the world makes sense.
 
 ---
 
