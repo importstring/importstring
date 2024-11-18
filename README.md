@@ -19,11 +19,6 @@ Welcome to my GitHub! I'm Simon, a mathematician-turned-computer-science enthusi
 
 ---
 
-## 🧠 Why AI Free Matters to Me  
-As a student passionate about AI, I’ve seen firsthand how access to cutting-edge tools can unlock new ideas and drive innovation. Expanding access to AI technology isn’t just a luxury—it’s a necessity for creating equitable opportunities and solving global challenges.  
-
----
-
 ## 🚀 What I Can Do  
 - **Efficient Code**: Python wizardry for AI, data analysis, and automation.  
 - **Weather Prediction Models**: Developing AI-based tools for analyzing climate trends.  
