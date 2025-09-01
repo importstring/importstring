@@ -1,3 +1,4 @@
+# Who is Simon?
 When Simon isn’t busy teaching machines to outsmart themselves, he’s probably serenading his neighbours (sorry) or chasing a challenge that most people would call “a questionable life choice.” His guitar? Practically a fifth limb—he’s had it since age five and honestly treats it better than his laptop (which, as a CS person, says a lot).
 
 He cares about people so much that, try as he might to play it cool, he just can’t help stepping in whenever someone needs a hand.
