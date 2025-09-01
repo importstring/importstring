@@ -1,21 +1,8 @@
-# Hi there 👋  
+When Simon isn’t busy teaching machines to outsmart themselves, he’s probably serenading his neighbours (sorry) or chasing a challenge that most people would call “a questionable life choice.” His guitar? Practically a fifth limb—he’s had it since age five and honestly treats it better than his laptop (which, as a CS person, says a lot).
 
-Welcome to my GitHub! I'm Simon, a mathematician-turned-computer-science enthusiast with a knack for solving problems, exploring the potential of AI, and building practical tools for real-world applications. Here’s a bit about me:
+He cares about people so much that, try as he might to play it cool, he just can’t help stepping in whenever someone needs a hand.
 
----
-
-## 🌟 About Me  
-- 🔭 **I’m currently working on**:  
-   - Building AI tools to analyze weather trends and patterns using custom datasets.  
-   - Developing creative solutions in Python to simplify complex problems.  
-- 🌱 **I’m exploring**:  
-   - Reinforcement learning, LLMs, and neural networks for innovative applications.  
-   - Quantum computing concepts and their real-world implications.  
-- 💡 **Ask me about**:  
-   - Applying machine learning to everyday problems.  
-   - How I use Notion for seamless task management and thematic design.  
-- 🎯 **My goal**: To master AI and mathematics, making meaningful contributions to the field while staying grounded in logic and science.  
-- 😄 **Fun fact**: I’m a firm believer that science is the lens through which the world makes sense.
+And yes, Simon is writing this in third person because he read somewhere it boosts credibility. Or maybe he just thinks it sounds cooler. The world may never know.
 
 ---
 
