@@ -6,3 +6,5 @@ I currently use VS Code and Pycharm depending on the task and am starting to get
 When I'm not coding you'll find me playing tennis, working out, taking care of my dog, spending time with friends and family, and doing some mental health stuff.
 
 Love to connect!
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/coding.gif" width="300" />
