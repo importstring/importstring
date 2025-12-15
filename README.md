@@ -7,4 +7,5 @@ When I'm not coding you'll find me playing tennis, working out, taking care of m
 
 Love to connect!
 
-![Snake animation](https://raw.githubusercontent.com/importstring/importstring/output/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/importstring/importstring/output/github-snake.svg)
+
