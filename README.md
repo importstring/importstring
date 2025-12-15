@@ -42,30 +42,12 @@ When I'm not coding, you'll usually find me on a tennis court 🎾, grinding in 
 
 ---
 
-## 🏆 Achievements
 
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=importstring&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
-
----
 
 ## 🐍 Contribution Activity
 
 ![Snake animation](https://raw.githubusercontent.com/importstring/importstring/output/github-snake.svg)
 
----
-
-## 📫 Connect With Me
-
-- **LinkedIn**: [Simon](https://linkedin.com/in/your-linkedin)
-- **Kaggle**: [importstring](https://kaggle.com/importstring)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **Portfolio**: [your-portfolio.com](https://your-portfolio.com)
-
----
 
 <div align="center">
 
