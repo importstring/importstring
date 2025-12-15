@@ -1,13 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com
-?size=28
-&pause=1000
-&color=00C896
-&center=true
-&vCenter=true
-&width=700
-&lines=Hey+I'm+Simon;ML+Engineer+%7C+Student+%7C+Tennis+Player;Always+shipping+and+learning)
-](https://git.io/typing-svg)
-
+Hey I'm Simon,
 
 I've been doing a lot in machine learning recently whenever I've had time. I'm just now getting into some Kaggle datascience competetions and hope that's going to improve my skills.
 I'm currently great at Python, and the basics of web development but I've been gradually learning Rust and Typescript.
