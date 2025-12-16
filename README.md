@@ -30,6 +30,5 @@ When I'm not coding, you'll usually find me on a tennis court 🎾, grinding in 
 
 
 
-## 🐍 Contribution Activity
+![Snake animation](https://raw.githubusercontent.com/importstring/importstring/main/dist/github-snake-dark.svg)
 
-![Snake animation](https://raw.githubusercontent.com/importstring/importstring/main/dist/github-snake.svg)
