@@ -4,7 +4,7 @@
 
 I've been diving deep into [**machine learning**](https://github.com/stars/importstring/lists/machine-learning) whenever I can carve out time, and I'm just now getting into [Kaggle data science competitions](https://github.com/importstring/Diabetes-Prediction-Kaggle-Challenge) to sharpen my modeling, feature engineering, and evaluation chops.
 
-Right now I'm \(\color{blue}{\text{strongest in Python}}\) and the [basics of web dev](https://github.com/importstring/Web-Dev-Certicates), and I've been gradually picking up **Rust** and **TypeScript**. I mostly live in **VS Code** and **PyCharm**, and I'm getting increasingly comfortable with **Vim motions**.
+Right now I'm \$$\color{blue}{\text{strongest in Python}}\$$ and the [basics of web dev](https://github.com/importstring/Web-Dev-Certicates), and I've been gradually picking up \$$\color{blue}{\text{Rust}}\$$ and \$$\color{blue}{\text{TypeScript}}\$$. I mostly live in \$$\color{blue}{\text{VS Code}}$$ and \$$\color{blue}{\text{PyCharm}}\$$, and I'm getting increasingly comfortable with \$$\color{blue}{\text{Vim motions}}\$$.
 
 When I'm not coding, you'll usually find me on a tennis court 🎾, grinding in the gym 💪, hanging with my dog 🐕, spending time with friends and family 👨‍👩‍👧‍👦, or doing mental health work and reflection 🧠.
 
