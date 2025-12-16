@@ -14,6 +14,15 @@ When I'm not coding, you'll usually find me on a tennis court 🎾, grinding in 
 
 ---
 
+
+## 📝 Latest from Medium
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+[See all posts on Medium](https://simon-bergeron.medium.com/)
+
+
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
@@ -35,9 +44,4 @@ When I'm not coding, you'll usually find me on a tennis court 🎾, grinding in 
 
 ![Snake animation](https://raw.githubusercontent.com/importstring/importstring/main/dist/github-snake-dark.svg)
 
-## 📝 Latest from Medium
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-[See all posts on Medium](https://simon-bergeron.medium.com/)
