@@ -4,14 +4,32 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
       - uses: Platane/snk@v3
+        id: snake-svg
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: 'Generate Contribution Snake'
+          file_pattern: 'dist/github-snake*.svg'
+          commit_options: '--no-verify'
+          skip_fetch: false
+          skip_checkout: false
