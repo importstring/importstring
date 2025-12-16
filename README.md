@@ -9,8 +9,7 @@ Right now I'm most confident with $\Large \color{blue}{\mathbf{Python}}$ and hav
 ---
 
 
-## 📝 Latest from Medium
-
+[![Latest from Medium](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=800&pause=2000&color=00D9FF&center=true&vCenter=true&width=260&lines=Latest+from+Medium;Newest+articles)](https://simon-bergeron.medium.com)
 <!-- BLOG-POST-LIST:START -->
 - [The Insights from Ali Abdaal that Changed my Life as a Developer](https://simon-bergeron.medium.com/the-insights-from-ali-abdaal-that-changed-my-life-as-a-developer-f34bd4731cca?source=rss-115e55c65381------2)
 - [Bridging the $1.7 Trillion Communication Gap: The Neuro-Symbolic Feedback Revolution](https://simon-bergeron.medium.com/bridging-the-1-7-trillion-communication-gap-the-neuro-symbolic-feedback-revolution-af5d3303f02f?source=rss-115e55c65381------2)
