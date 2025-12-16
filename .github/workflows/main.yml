@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   generate:
@@ -15,11 +12,8 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
 
       - uses: Platane/snk@v3
-        id: snake-svg
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -30,6 +24,3 @@ jobs:
         with:
           commit_message: 'Generate Contribution Snake'
           file_pattern: 'dist/github-snake*.svg'
-          commit_options: '--no-verify'
-          skip_fetch: false
-          skip_checkout: false
