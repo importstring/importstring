@@ -8,7 +8,7 @@ Right now I'm \(\color{blue}{\text{strongest in Python}}\) and the [basics of we
 
 When I'm not coding, you'll usually find me on a tennis court 🎾, grinding in the gym 💪, hanging with my dog 🐕, spending time with friends and family 👨‍👩‍👧‍👦, or doing mental health work and reflection 🧠.
 
-**Always happy to connect and collaborate** 🤝
+$$\color{blue}{\text{Always happy to connect and collaborate}}$$ 🤝
 
 ---
 
