@@ -28,30 +28,8 @@ When I'm not coding, you'll usually find me on a tennis court 🎾, grinding in 
 ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=importstring&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=importstring&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 
 
 ## 🐍 Contribution Activity
 
 ![Snake animation](https://raw.githubusercontent.com/importstring/importstring/main/dist/github-snake.svg)
-
-
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=importstring&color=blueviolet&style=flat-square)
-
-</div>
