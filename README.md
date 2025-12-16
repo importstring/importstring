@@ -18,6 +18,11 @@ When I'm not coding, you'll usually find me on a tennis court 🎾, grinding in 
 ## 📝 Latest from Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [The Insights from Ali Abdaal that Changed my Life as a Developer](https://simon-bergeron.medium.com/the-insights-from-ali-abdaal-that-changed-my-life-as-a-developer-f34bd4731cca?source=rss-115e55c65381------2)
+- [Bridging the $1.7 Trillion Communication Gap: The Neuro-Symbolic Feedback Revolution](https://simon-bergeron.medium.com/bridging-the-1-7-trillion-communication-gap-the-neuro-symbolic-feedback-revolution-af5d3303f02f?source=rss-115e55c65381------2)
+- [Technological Stack for LLM-Based Stock Price Prediction](https://simon-bergeron.medium.com/technological-stack-for-llm-based-stock-price-prediction-c5d6e83cd795?source=rss-115e55c65381------2)
+- [Using Hierarchical Recursive Temporal Neural Aggregation and Predictive Modelling Systems to Save…](https://simon-bergeron.medium.com/using-hierarchical-recursive-temporal-neural-aggregation-and-predictive-modelling-systems-to-save-1a040ca7df02?source=rss-115e55c65381------2)
+- [How to Code a Reinforcement Learning Model](https://simon-bergeron.medium.com/how-to-code-a-reinforcement-learning-model-c297d8ea9dac?source=rss-115e55c65381------2)
 <!-- BLOG-POST-LIST:END -->
 
 [See all posts on Medium](https://simon-bergeron.medium.com/)
