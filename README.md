@@ -6,8 +6,6 @@ I've been diving deep into [**machine learning**](https://github.com/stars/impor
 
 Right now I'm most confident with $\Large \color{blue}{\mathbf{Python}}$ and have a [solid web dev skillset](https://github.com/importstring/Web-Dev-Certicates). I've been gradually picking up $\color{blue}{\textbf{Rust}}$ and \$$\color{blue}{\text{TypeScript}}\$$. I mostly live in \$$\color{blue}{\text{VS Code}}$$ and \$$\color{blue}{\text{PyCharm}}\$$, and I'm getting increasingly comfortable with \$$\color{blue}{\text{Vim motions}}\$$.
 
-When I'm not coding, you'll usually find me doing some sort of athletic conditioning or sport, spending time with loved ones, and playing guitar.
-
 $$\color{blue}{\text{Always happy to connect and collaborate}}$$ 🤝
 
 ---
