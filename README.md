@@ -38,5 +38,3 @@ $$\color{blue}{\text{Always happy to connect and collaborate}}$$ 🤝
 
 
 ![Snake animation](https://raw.githubusercontent.com/importstring/importstring/main/dist/github-snake-dark.svg)
-
-
