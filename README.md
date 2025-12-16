@@ -34,14 +34,9 @@ When I'm not coding, you'll usually find me on a tennis court 🎾, grinding in 
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
-
-
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?logo=pycharm&logoColor=white&style=for-the-badge)
 ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
 
 
 ![Snake animation](https://raw.githubusercontent.com/importstring/importstring/main/dist/github-snake-dark.svg)
