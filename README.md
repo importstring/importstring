@@ -34,3 +34,10 @@ When I'm not coding, you'll usually find me on a tennis court 🎾, grinding in 
 
 
 ![Snake animation](https://raw.githubusercontent.com/importstring/importstring/main/dist/github-snake-dark.svg)
+
+## 📝 Latest from Medium
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+[See all posts on Medium](https://simon-bergeron.medium.com/)
