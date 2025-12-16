@@ -46,7 +46,8 @@ When I'm not coding, you'll usually find me on a tennis court 🎾, grinding in 
 
 ## 🐍 Contribution Activity
 
-![Snake animation](https://raw.githubusercontent.com/importstring/importstring/output/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/importstring/importstring/main/dist/github-snake.svg)
+
 
 
 <div align="center">
