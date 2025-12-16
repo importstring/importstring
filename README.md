@@ -2,7 +2,7 @@
 
 ---
 
-I've been diving deep into **machine learning** whenever I can carve out time, and I'm just now getting into Kaggle data science competitions to sharpen my modeling, feature engineering, and evaluation chops.
+I've been diving deep into **machine learning** whenever I can carve out time, and I'm just now getting into [Kaggle data science competitions]([url](https://github.com/importstring/Diabetes-Prediction-Kaggle-Challenge)) to sharpen my modeling, feature engineering, and evaluation chops.
 
 Right now I'm **strongest in Python** and the basics of web dev, and I've been gradually picking up **Rust** and **TypeScript**. I mostly live in **VS Code** and **PyCharm**, and I'm getting increasingly comfortable with **Vim motions**.
 
