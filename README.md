@@ -2,7 +2,7 @@
 
 ---
 
-I've been diving deep into [**machine learning**](https://github.com/stars/importstring/lists/machine-learning) whenever I can carve out time, and I'm just now getting into [Kaggle data science competitions](https://github.com/importstring/Diabetes-Prediction-Kaggle-Challenge) to sharpen my modeling, feature engineering, and evaluation chops.
+I've been diving deep into **machine learning** whenever I can carve out time, and I'm just now getting into [Kaggle data science competitions](https://github.com/importstring/Predicting-Heart-Disease) to sharpen my modeling, feature engineering, and evaluation chops.
 
 Right now I'm most confident with $\Large \color{blue}{\mathbf{Python}}$ and have a [solid web dev skillset](https://github.com/importstring/Web-Dev-Certicates). I've been gradually picking up $\color{blue}{\textbf{Rust}}$ and \$$\color{blue}{\text{TypeScript}}\$$. I mostly live in \$$\color{blue}{\text{VS Code}}$$ and \$$\color{blue}{\text{PyCharm}}\$$, and I'm getting increasingly comfortable with \$$\color{blue}{\text{Vim motions}}\$$.
 
