@@ -11,11 +11,11 @@ Right now I'm most confident with $\Large \color{blue}{\mathbf{Python}}$ and hav
 
 [![Latest from Medium](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=800&pause=2000&color=00D9FF&center=true&vCenter=true&width=260&lines=Latest+from+Medium;Newest+articles)](https://simon-bergeron.medium.com)
 <!-- BLOG-POST-LIST:START -->
+- [Helpful Graphs to use in your next ML/Data Science Classification Project](https://simon-bergeron.medium.com/helpful-graphs-to-use-in-your-next-ml-data-science-classification-project-25accd9154fa?source=rss-115e55c65381------2)
+- [The Golden Rule for Coding with AI](https://simon-bergeron.medium.com/the-golden-rule-for-coding-with-ai-7c63656ea627?source=rss-115e55c65381------2)
 - [The Insights from Ali Abdaal that Changed my Life as a Developer](https://simon-bergeron.medium.com/the-insights-from-ali-abdaal-that-changed-my-life-as-a-developer-f34bd4731cca?source=rss-115e55c65381------2)
-- [Bridging the $1.7 Trillion Communication Gap: The Neuro-Symbolic Feedback Revolution](https://simon-bergeron.medium.com/bridging-the-1-7-trillion-communication-gap-the-neuro-symbolic-feedback-revolution-af5d3303f02f?source=rss-115e55c65381------2)
 - [Technological Stack for LLM-Based Stock Price Prediction](https://simon-bergeron.medium.com/technological-stack-for-llm-based-stock-price-prediction-c5d6e83cd795?source=rss-115e55c65381------2)
 - [Using Hierarchical Recursive Temporal Neural Aggregation and Predictive Modelling Systems to Save…](https://simon-bergeron.medium.com/using-hierarchical-recursive-temporal-neural-aggregation-and-predictive-modelling-systems-to-save-1a040ca7df02?source=rss-115e55c65381------2)
-- [How to Code a Reinforcement Learning Model](https://simon-bergeron.medium.com/how-to-code-a-reinforcement-learning-model-c297d8ea9dac?source=rss-115e55c65381------2)
 <!-- BLOG-POST-LIST:END -->
 
 [See all posts on Medium](https://simon-bergeron.medium.com/)
