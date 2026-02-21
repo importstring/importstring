@@ -26,11 +26,8 @@ Right now I'm most confident with $\Large \color{blue}{\mathbf{Python}}$ and hav
 
 ## 🛠️ Tech Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/importstring/importstring/main/dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/importstring/importstring/main/dist/github-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/importstring/importstring/main/dist/github-snake.svg" />
-</picture>
+![Snake animation light mode](https://raw.githubusercontent.com/importstring/importstring/main/dist/github-snake.svg#gh-light-mode-only)
+![Snake animation dark mode](https://raw.githubusercontent.com/importstring/importstring/main/dist/github-snake-dark.svg#gh-dark-mode-only)
 
 
 ![Python](https://img.shields.io/badge/Python-00D9FF?logo=python&logoColor=white&style=for-the-badge)
