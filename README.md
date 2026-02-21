@@ -25,18 +25,6 @@ Right now I'm most confident with $\Large \color{blue}{\mathbf{Python}}$ and hav
 ---
 
 
-## Latest from Medium
-<!-- BLOG-POST-LIST:START -->
-- [Helpful Graphs to use in your next ML/Data Science Classification Project](https://simon-bergeron.medium.com/helpful-graphs-to-use-in-your-next-ml-data-science-classification-project-25accd9154fa?source=rss-115e55c65381------2)
-- [The Golden Rule for Coding with AI](https://simon-bergeron.medium.com/the-golden-rule-for-coding-with-ai-7c63656ea627?source=rss-115e55c65381------2)
-- [The Insights from Ali Abdaal that Changed my Life as a Developer](https://simon-bergeron.medium.com/the-insights-from-ali-abdaal-that-changed-my-life-as-a-developer-f34bd4731cca?source=rss-115e55c65381------2)
-- [Technological Stack for LLM-Based Stock Price Prediction](https://simon-bergeron.medium.com/technological-stack-for-llm-based-stock-price-prediction-c5d6e83cd795?source=rss-115e55c65381------2)
-- [Using Hierarchical Recursive Temporal Neural Aggregation and Predictive Modelling Systems to Save…](https://simon-bergeron.medium.com/using-hierarchical-recursive-temporal-neural-aggregation-and-predictive-modelling-systems-to-save-1a040ca7df02?source=rss-115e55c65381------2)
-<!-- BLOG-POST-LIST:END -->
-
-[See all posts on Medium](https://simon-bergeron.medium.com/)
-
-
 ## Acitivty
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
@@ -47,9 +35,59 @@ Right now I'm most confident with $\Large \color{blue}{\mathbf{Python}}$ and hav
     <img alt="GitHub Contributions" src="https://gh-heat.anishroy.com/api/importstring/svg?theme=blue&darkMode=false" width="1000">
   </picture>
 
+<table>
+  <tr>
+    <!-- Card 1 -->
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/importstring/Aristotle-MiniGPT">Aristotle-MiniGPT</a></h3>
+      <p>
+        Tiny GPT‑style Transformer trained from scratch in PyTorch on a 1.5 MB corpus of public‑domain Aristotle. Character‑level next‑token prediction, multiple model sizes, full training logs, loss curves, and sample generations.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-0066FF?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+        <img src="https://img.shields.io/badge/Transformers-0066FF?style=flat-square&logo=huggingface&logoColor=white" alt="Transformers">
+      </p>
+    </td>
+    <!-- Card 2 -->
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/importstring/Digit-Recognizer">Digit Recognizer</a></h3>
+      <p>
+        Simple PyTorch neural networks (MLP and CNN) trained on the Kaggle digit-recognizer dataset (MNIST in CSV format). The goal is practice with neural nets, not leaderboard sniping.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-0066FF?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+      </p>
+    </td>
+  </tr>
+</table>
 
 
-</div>
+<table>
+  <tr>
+    <!-- Battleship TUI -->
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/importstring/Computer-Science-11-CCT">Terminal Battleship (TUI)</a></h3>
+      <p>
+        Surprisingly complex terminal Battleship with a fully custom text UI, used as a sandbox to push code organization, modular design, and concise Python.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-0066FF?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/Curses-0066FF?style=flat-square&logo=python&logoColor=white" alt="Curses">
+      </p>
+    </td>
+    <!-- Heart Disease ML -->
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/importstring/Predicting-Heart-Disease">Predicting Heart Disease</a></h3>
+      <p>
+        End‑to‑end ML pipeline from EDA (class balance, correlations, KDEs) to a logistic regression baseline, then tuned gradient boosting models and interpretability with SHAP.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-0066FF?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/scikit--learn-0066FF?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 
@@ -61,5 +99,4 @@ Right now I'm most confident with $\Large \color{blue}{\mathbf{Python}}$ and hav
 ![PyTorch](https://img.shields.io/badge/PyTorch-0052E6?logo=pytorch&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-003BB3?logo=git&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-002680?logo=postgresql&logoColor=white&style=for-the-badge)
-
 
