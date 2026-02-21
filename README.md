@@ -1,5 +1,20 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C5F0&center=true&vCenter=true&width=900&lines=Hey+I'm+Simon+%F0%9F%91%8B;Aspiring+ML+PhD;Student+ML+Engineer)](https://www.linkedin.com/in/simon-bergeron/)
+<h1 align="center">
+  Hey I'm Simon
+  <img
+    src="https://iam-weijie.github.io/wave/hand-emoji.svg"
+    alt="wave"
+    height="40"
+    style="vertical-align: sub; margin-left: 6px;"
+  >
+</h2>
 
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&color=00A5FF&center=true&vCenter=true&width=900&height=30&background=001018&lines=%24+Aspiring+machine+learning+PhD;%24+Addicted+to+the+challenge;%24+Building+a+personal+brand;%24+Loving+the+grind"
+    alt="terminal typing"
+  >
+</p>
 
 ---
 
