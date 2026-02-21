@@ -30,11 +30,13 @@ Right now I'm most confident with $\Large \color{blue}{\mathbf{Python}}$ and hav
 ![Snake animation dark mode](https://raw.githubusercontent.com/importstring/importstring/main/dist/github-snake-dark.svg#gh-dark-mode-only)
 
 
-![Python](https://img.shields.io/badge/Python-00D9FF?logo=python&logoColor=white&style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-00D9FF?logo=numpy&logoColor=white&style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-00D9FF?logo=pandas&logoColor=white&style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-00D9FF?logo=plotly&logoColor=white&style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-00D9FF?logo=seaborn&logoColor=white&style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-00D9FF?logo=scikitlearn&logoColor=white&style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-00D9FF?logo=pytorch&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-00D9FF?logo=git&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-00BFFF?logo=python&logoColor=white&style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-00A5FF?logo=numpy&logoColor=white&style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-0090FF?logo=pandas&logoColor=white&style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-007BFF?logo=plotly&logoColor=white&style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0066FF?logo=scikitlearn&logoColor=white&style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-0052E6?logo=pytorch&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-003BB3?logo=git&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-002680?logo=postgresql&logoColor=white&style=for-the-badge)
+
+
