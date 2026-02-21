@@ -46,11 +46,6 @@ Right now I'm most confident with $\Large \color{blue}{\mathbf{Python}}$ and hav
     <source media="(prefers-color-scheme: light)" srcset="https://gh-heat.anishroy.com/api/importstring/svg?theme=blue&darkMode=false">
     <img alt="GitHub Contributions" src="https://gh-heat.anishroy.com/api/importstring/svg?theme=blue&darkMode=false" width="1000">
   </picture>
-<p align="center">
-  <code>Max commits in a day:</code> 57 
-  <code>Current streak:</code> 32 days 
-  <code>2025 commits:</code> 583
-</p>
 
 
 
