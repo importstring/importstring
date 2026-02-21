@@ -10,7 +10,7 @@ Right now I'm most confident with $\Large \color{blue}{\mathbf{Python}}$ and hav
 ---
 
 
-[![Latest from Medium](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=800&pause=2000&color=00D9FF&center=true&vCenter=true&width=260&lines=Latest+from+Medium;Newest+articles)](https://simon-bergeron.medium.com)
+## Latest from Medium
 <!-- BLOG-POST-LIST:START -->
 - [Helpful Graphs to use in your next ML/Data Science Classification Project](https://simon-bergeron.medium.com/helpful-graphs-to-use-in-your-next-ml-data-science-classification-project-25accd9154fa?source=rss-115e55c65381------2)
 - [The Golden Rule for Coding with AI](https://simon-bergeron.medium.com/the-golden-rule-for-coding-with-ai-7c63656ea627?source=rss-115e55c65381------2)
@@ -22,10 +22,14 @@ Right now I'm most confident with $\Large \color{blue}{\mathbf{Python}}$ and hav
 [See all posts on Medium](https://simon-bergeron.medium.com/)
 
 
-## 🛠️ Tech Stack
+## Acitivty
 
-![Snake animation light mode](https://raw.githubusercontent.com/importstring/importstring/main/dist/github-snake.svg#gh-light-mode-only)
-![Snake animation dark mode](https://raw.githubusercontent.com/importstring/importstring/main/dist/github-snake-dark.svg#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://gh-heat.anishroy.com/api/importstring/svg?theme=blue&darkMode=true" width=1000>
+  <source media="(prefers-color-scheme: light)" srcset="https://gh-heat.anishroy.com/api/importstring/svg?theme=blue&darkMode=false width=1000">
+  <img alt="GitHub Contributions" src="https://gh-heat.anishroy.com/api/importstring/svg?theme=blue&darkMode=false">
+</picture>
+
 
 
 ![Python](https://img.shields.io/badge/Python-00BFFF?logo=python&logoColor=white&style=for-the-badge)
