@@ -26,6 +26,10 @@ Right now I'm most confident with $\Large \color{blue}{\mathbf{Python}}$ and hav
 
 ## 🛠️ Tech Stack
 
+
+![Snake animation](https://raw.githubusercontent.com/importstring/importstring/main/dist/github-snake-dark.svg)
+
+
 ![Python](https://img.shields.io/badge/Python-00D9FF?logo=python&logoColor=white&style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-00D9FF?logo=numpy&logoColor=white&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-00D9FF?logo=pandas&logoColor=white&style=for-the-badge)
@@ -34,6 +38,3 @@ Right now I'm most confident with $\Large \color{blue}{\mathbf{Python}}$ and hav
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-00D9FF?logo=scikitlearn&logoColor=white&style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-00D9FF?logo=pytorch&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-00D9FF?logo=git&logoColor=white&style=for-the-badge)
-
-
-![Snake animation](https://raw.githubusercontent.com/importstring/importstring/main/dist/github-snake-dark.svg)
