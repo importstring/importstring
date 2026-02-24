@@ -19,9 +19,9 @@
 
 ---
 
-I've been diving deep into **machine learning** whenever I can carve out time. I've done everything from building LLMs from scratch to a location‑scoring system I built during an internship.  
+I've been diving deep into **machine learning** whenever I can carve out time. I've done everything from building LLMs from scratch to a location‑scoring system I built during an internship.  I've been living in $\color{blue}{\mathbf{Pycharm}}$ & $\color{blue}{\mathbf{VS Code}}$ building out projects to build up my ML skillset day by day. I have high hopes of pursuing a PhD in ML.
 
-Right now I'm most confident with $\Large \color{blue}{\mathbf{Python}}$ and have a [solid web dev skillset](https://github.com/importstring/Web-Dev-Certicates). I've been gradually picking up $\color{blue}{\textbf{Rust}}$ and \$$\color{blue}{\text{TypeScript}}\$$. I mostly live in \$$\color{blue}{\text{VS Code}}$$ and \$$\color{blue}{\text{PyCharm}}\$$, and I'm getting increasingly comfortable with \$$\color{blue}{\text{Vim motions}}\$$.
+I'm most confident with $\Large \color{blue}{\mathbf{Python}}$ and have a [solid web dev skillset](https://github.com/importstring/Web-Dev-Certicates). I've been gradually picking up $\color{blue}{\textbf{Rust}}$ and \$$\color{blue}{\text{TypeScript}}\$$. I'm getting increasingly comfortable with \$$\color{blue}{\text{Vim motions}}\$$.
 
 ---
 
