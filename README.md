@@ -11,10 +11,10 @@
 
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&color=00A5FF&center=true&vCenter=true&width=900&height=30&background=001018&lines=%24+Aspiring+machine+learning+PhD;%24+Addicted+to+the+challenge;%24+Building+a+personal+brand;%24+Loving+the+grind"
-    alt="terminal typing"
-  >
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&color=00A5FF&center=true&vCenter=true&width=900&height=30&background=001018&lines=%24+Aspiring+machine+learning+PhD;%24+Addicted+to+the+challenge;%24+Building+a+personal+brand;%24+Loving+the+grind" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&color=00A5FF&center=true&vCenter=true&width=900&height=30&background=E6F4FF&lines=%24+Aspiring+machine+learning+PhD;%24+Addicted+to+the+challenge;%24+Building+a+personal+brand;%24+Loving+the+grind" alt="terminal typing" />
+  </picture>
 </p>
 
 ---
