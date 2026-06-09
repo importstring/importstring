@@ -1,12 +1,5 @@
 <h1 align="center">
   Hey I'm Simon 👋
-<!--  <img
-    src="https://iam-weijie.github.io/wave/hand-emoji.svg"
-    alt="wave"
-    height="40"
-    style="vertical-align: sub; margin-left: 6px;"
-  >
--->
 </h2>
 
 <p align="center">
