@@ -9,7 +9,6 @@
 -->
 </h2>
 
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&color=00A5FF&center=true&vCenter=true&width=900&height=30&background=001018&lines=%24+Aspiring+machine+learning+PhD;%24+Addicted+to+the+challenge;%24+Building+a+personal+brand;%24+Loving+the+grind" />
@@ -19,12 +18,11 @@
 
 ---
 
-I've been diving deep into **machine learning** whenever I can carve out time. I've done everything from building LLMs from scratch to a location‑scoring system I built during an internship.  I've been living in $\color{blue}{\mathbf{Pycharm}}$ & $\color{blue}{\mathbf{VS Code}}$ building out projects to build up my ML skillset day by day. I have high hopes of pursuing a PhD in ML.
+I've been diving deep into **machine learning** whenever I can carve out time. I've done everything from building LLMs from scratch to a location‑scoring system I built during an internship. I've been living in $\color{blue}{\mathbf{Pycharm}}$ & $\color{blue}{\mathbf{VS Code}}$ building out projects to build up my ML skillset day by day. I have high hopes of pursuing a PhD in ML.
 
 I'm most confident with $\Large \color{blue}{\mathbf{Python}}$ and have a [solid web dev skillset](https://github.com/importstring/Web-Dev-Certicates). I've been gradually picking up $\color{blue}{\textbf{Rust}}$ and \$$\color{blue}{\text{TypeScript}}\$$. I'm getting increasingly comfortable with \$$\color{blue}{\text{Vim motions}}\$$.
 
 ---
-
 
 ## Acitivty
 
@@ -62,7 +60,6 @@ I'm most confident with $\Large \color{blue}{\mathbf{Python}}$ and have a [solid
   </tr>
 </table>
 
-
 <table>
   <tr>
     <!-- Battleship TUI -->
@@ -90,8 +87,6 @@ I'm most confident with $\Large \color{blue}{\mathbf{Python}}$ and have a [solid
   </tr>
 </table>
 
-
-
 ![Python](https://img.shields.io/badge/Python-00BFFF?logo=python&logoColor=white&style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-00A5FF?logo=numpy&logoColor=white&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-0090FF?logo=pandas&logoColor=white&style=for-the-badge)
@@ -100,4 +95,3 @@ I'm most confident with $\Large \color{blue}{\mathbf{Python}}$ and have a [solid
 ![PyTorch](https://img.shields.io/badge/PyTorch-0052E6?logo=pytorch&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-003BB3?logo=git&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-002680?logo=postgresql&logoColor=white&style=for-the-badge)
-
