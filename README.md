@@ -19,7 +19,7 @@
 
 ---
 
-I've been diving deep into $\color{blue}{\mathbf{Machine}}$ $\color{blue}{\mathbf{Learning}}$ whenever I can carve out time. I've done everything from building an $\color{blue}{\mathbf{LLM}}$ from $\color{blue}{\mathbf{scratch}}$ to a demand forecasting location scoring system I built during an $\color{blue}{\mathbf{internship}}$. I've been living in Pycharm & $\color{blue}{\mathbf{VS Code}}$ building out projects to build up my ML skillset day by day. I have high hopes of pursuing a PhD in ML.
+I've been diving deep into $\color{blue}{\mathbf{Machine}}$ $\color{blue}{\mathbf{Learning}}$ whenever I can carve out time. I've done everything from building an $\color{blue}{\mathbf{LLM}}$ from $\color{blue}{\mathbf{scratch}}$ to a demand forecasting location scoring system I built during an $\color{blue}{\mathbf{internship}}$. I've been living in $\color{blue}{\mathbf{Pycharm}}$ & $\color{blue}{\mathbf{VS Code}}$ building out projects to build up my ML skillset day by day. I have high hopes of pursuing a PhD in ML.
 
 I'm just now getting into contributing to $\color{blue}{\mathbf{open-source}}$ and coding in $\color{blue}{\mathbf{Rust}}$. I've emplemented some features and fixed some bugs over at $\color{blue}{\mathbf{Pytorch/ignite}}$ and you can usually find me doing some fixes over there. 
 
