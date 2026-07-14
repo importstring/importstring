@@ -24,6 +24,7 @@ I've been diving deep into $\color{blue}{\mathbf{Machine}}$ $\color{blue}{\mathb
 I'm just now getting into contributing to $\color{blue}{\mathbf{open-source}}$ and coding in $\color{blue}{\mathbf{Rust}}$. I've emplemented some features and fixed some bugs over at $\color{blue}{\mathbf{Pytorch/ignite}}$ and you can usually find me doing some fixes over there. 
 
 Follow along in my journey of learning rust here: https://github.com/importstring/Learning-Rust
+Or follow along to my journey of breaking a cross-subject iEEG benchmark: [https://github.com/importstring/neuroprobe](https://github.com/importstring/neuroprobe-exp)
 
 ---
 
