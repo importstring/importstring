@@ -103,4 +103,5 @@ Or follow along to my journey of breaking a cross-subject iEEG benchmark: [https
 ![PyTorch](https://img.shields.io/badge/PyTorch-0052E6?logo=pytorch&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-003BB3?logo=git&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-002680?logo=postgresql&logoColor=white&style=for-the-badge)
+![Rust](https://img.shields.io/badge/Rust-001F3F?logo=rust&logoColor=white&style=for-the-badge)
 
